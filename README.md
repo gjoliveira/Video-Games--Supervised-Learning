@@ -5,7 +5,7 @@ The project involves the exploratory data analysis and application of "Supervise
 
 The work is divided into the following stages:
 
-  >Preprocessing and data analysis (removing irrelevant columns from our dataset, searching for outliers, categorizing numerical variables, etc.);
-  >Test/Train dataset split;
-  >Development and improvement of classification models (Decision Tree Classifiers, K-NN);
-  >Testing the efficiency of our learning models;
+  Preprocessing and data analysis (removing irrelevant columns from our dataset, searching for outliers, categorizing numerical variables, etc.);
+  Test/Train dataset split;
+  Development and improvement of classification models (Decision Tree Classifiers, K-NN);
+  Testing the efficiency of our learning models;
